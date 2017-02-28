@@ -1,0 +1,61 @@
+Enterprise Resource Planning (ERP) je informační systém, který slouží ke sjednocení
+a automatizaci velkého množství podnikových činností. Obecně se jedná například o výrobu,
+distribuci, prodej, účetnictví a mnoho dalších. Tento systemy jsou drahé ale velmi důležitá investice pro firmy.   
+Tento skupina program určena pro zabezpečení celeho logistického řetězce, ale netýká se pouze planování. Původně byly ERP systemy určeny pro průmyslové podniky jako nastroj pro podpore řítení vyroby, ale v dněšní dobe nalezly uplatneni I jiných oblastech (lidské zdroje, finance apd.) a v některých připadech je lepši mluvit o celopodnikových informačnich systemech. ERP systemy slouží podpore činnosti v primarnim procesu. 
+Cílem ERP system je obsáhnout programy, které slouží různým
+informačním potřebám jednotlivých oddělení podniku, a sdílet stejnou architekturu a datovou
+základnu.
+Základní komponenty ERP: 
+1.	ERP SW¨
+2.	Podnikové procesy¨
+3.	Uživatele
+4.	HW 
+5.	OS
+
+ERP 
+systémy umožňují daleko jednodušší a průhlednější řízení, monitorování i kontrolu všech zakázek a vjakémkoliv stavu rozpracování včetně zdrojů, jež daná zakázka vyžaduje.
+Činnosti:
+*přijetí obchodního případu.
+*vytvoření  objednávky,  její  obsahovou,  termínovou  a  cenovou specifikaci
+*plánování  potřebných  materiálových  požadavků,  včetně 
+*zpracování návrhů na nákupy a kooperaci
+*objednání a nákup zboží a služeb od dodavatelů
+*zajištění úloh skladového hospodářství
+*plánování výrobních a předvýrobních kapacit
+*řízení realizace výrobní zakázky, včetně sběru zpětnovazebních dat z výroby
+*expedici hotových výrobků
+*archivaci zakázek a dalších souvisejících dat
+
+Funkcí v následujících oblastech účetnictví :
+
+*finanční účetnictví
+*nákladové účetnictví
+*controlling
+*zpracování mezd
+*pokladna a kontakt na banku
+*investiční majetek
+
+Do ERP systémů jsou zařazovány i další moduly pro oblasti řízení lidských 
+zdrojů, analýzy dat, řízení vztahů s
+e zákazníky. Vlastní propojenost ERP 
+systémů  nabízí  celou  řadu  přínosů.  Tyto  přínosy  lze  rozdělit  do  třech 
+základních kategorií :
+*lepší  komunikace  a  koordinace - zlepšení  toku  informací v rámci firmy i mezi jednotlivými obchodními jednotkami
+*snížení administrativních nákladů - integrace  a  standardizace procesů  v rámci  podniku  umožňuje  zjednodušit  a  centralizovat 
+některé administrativní činnosti, což přináší určité úspory
+*snížení  nákladů  na  provoz  IS propojenost  a  unifikovanost ERP  systémů resp. jednotlivých  modulů umožňuje  daleko jednodušší a flexibilnější provoz event. i další rozšiřování
+
+Základní požadavky na ERP systém můžeme zařadit:
+*účinnost  zpracování – způsob, jakým  funguje  automatizace činností  v hlavním podnikovém  procesu  a  integrace  těchto činností;
+*rychlost zpracování - požadavek, kdy systém musí být schopen, zhlediska objemu a zpřístupňování dat, pracovat v reálném čase;
+*prezentační  úroveň – požadavek  na  odpovídající  úroveň zpracování výstupních dokumentů včetně grafického zpracování
+*bezpečnost – požadavek  na zabezpečení  systému  pomocí vhodných bezpečnostní opatření  jako  správa  rolí,  šifrování přenosů a ukládaných dat apod.
+*legislativní aktuálnost – systém musí být schopen aktualizace podle změn v legislativě, kterou se daný podnik musí řídit; stejně tak musí být schopna implementační firma takovou aktualizace zajistit.
+
+Выбор ерп системы - не простой и затратный шаг для каждого бизнеса, поэтому очень важно серьезно отнеститсь к выбору.
+
+=================
+ФИРМА:
+
+Фирма занимается производством и продажей графических чипов
+
